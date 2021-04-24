@@ -1,5 +1,5 @@
 //our app js
 
 function helloWorld() {
-  alert("hello");
+  alert("Hi");
 }
